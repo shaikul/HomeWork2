@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="text_enter_email">Введите почту</string>
+    <string name="edit_password">Введите тему</string>
+    <string name="edit_theme">Введите тему</string>
+    <string name="edit_pasword" >Введите смс</string>
+</resources>
